@@ -52,6 +52,6 @@ Verideki benzer ürünleri belirlemek için **K-Means Kümeleme Algoritması** u
 ## 📂 Dosya Yapısı  
 ```bash
 📦 urun-kumeleme-analizi  
- ├── 📜 urun_kumeleme_analizi.ipynb  # Jupyter Notebook dosyası
+ ├── 📜 urun_kumeleme_analizi.pdf  # Jupyter Notebook dosyası pdf
  ├── 📜 urunkumeleme&analizi.py      # Açık kaynaklı kod dosyası
  ├── 📜 README.md                    # Proje açıklamaları  
